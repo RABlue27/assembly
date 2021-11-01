@@ -3,7 +3,7 @@ comma: .ascii     ", "
 N:     .word      6 #Fib(N)
 
 #Code based off Prof's fib.asm on his website as well as some questions I've had that appear on stack overflow
-#Alex Duclos | 6738884 
+
 
 .text
 main:
