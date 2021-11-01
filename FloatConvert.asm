@@ -376,5 +376,4 @@ KelvinInput:
 	j EndProgram
 	
 	
-#I don't actually know if this is what you're supposed to do, but I just jump to the end of the program after each method to make sure we don't run them all	
 EndProgram:
